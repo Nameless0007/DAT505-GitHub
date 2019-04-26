@@ -2,7 +2,7 @@ three.js
 ========
 
 Name:Wang xianzhi
-Student ID:B161006088
+Student ID:B161006088m
 
 #### Assignment ####
 
