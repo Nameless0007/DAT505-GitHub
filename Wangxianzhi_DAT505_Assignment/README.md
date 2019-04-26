@@ -1,6 +1,9 @@
 three.js
 ========
 
+Name:Wang xianzhi
+Student ID:B161006088
+
 #### Assignment ####
 
 This project is a combination of all the courses between the content, choose a topic for a self-creation, I choose the works of art.
